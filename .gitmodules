@@ -1,0 +1,15 @@
+[submodule "scripts-backup"]
+	path = scripts-backup
+	url = https://github.com/antitoine/scripts-backup.git
+[submodule "monitoring"]
+	path = monitoring
+	url = https://github.com/antitoine/monitoring.git
+[submodule "scripts-permissions"]
+	path = scripts-permissions
+	url = https://github.com/antitoine/scripts-permissions.git
+[submodule "scripts-ssl"]
+	path = scripts-ssl
+	url = https://github.com/antitoine/scripts-ssl.git
+[submodule "scripts-java"]
+	path = scripts-java
+	url = https://github.com/antitoine/scripts-java.git
